@@ -70,8 +70,8 @@
     <strong>:algeria: Algeria administrative division :algeria:</strong>
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/2-CSV-808e9b.svg" alt="CSV">
-    <img src="https://img.shields.io/badge/5-SQL-27ae60.svg" alt="SQL">
+    <img src="https://img.shields.io/badge/3-CSV-808e9b.svg" alt="CSV">
+    <img src="https://img.shields.io/badge/3-SQL-27ae60.svg" alt="SQL">
   </p>
   <p align="center">
     <strong>:algeria: Algeria administrative division :algeria:</strong>
