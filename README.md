@@ -81,7 +81,7 @@
  
 #### Helpful ressources:
 
-* [othmanus](https://github.com/othmanus)
+* [othmanus](https://github.com/othmanus/algeria-cities)
 
 ## Authors
 
